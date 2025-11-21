@@ -14,7 +14,7 @@ This repository contains the solutions to the OOP Assignment 1. It includes answ
 
 ## Notes
 
- Each question is  done following th instruction the lecture sent .
+ Each question is  done following th instruction as the teacher requested .
 
 ---
 
